@@ -12,6 +12,8 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         mTextView=findViewById(R.id.mTextView);
-        mTextView.setText("版本21233333去嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡嗡");
+
+        mTextView.setText("版本2");
+ 
     }
 }
